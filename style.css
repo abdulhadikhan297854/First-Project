@@ -738,6 +738,9 @@ footer .copyright {
   table-layout: fixed;
   white-space: nowrap;
 }
+#cart i {
+  font-size: 18px;
+}
 #cart table img {
   width: 45%;
   height: 100%;
